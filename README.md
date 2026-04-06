@@ -77,7 +77,17 @@ Combines rental and sales data to support rent-vs-buy decision making.
 - Year
 
 ---
-
+## 📸 Dashboard Preview
+ 
+> *Screenshots of each dashboard page are in the `/screenshot` folder.*
+ 
+| Page | Description |
+|------|-------------|
+| ![Rental Snapshot](screenshot/NSW_Property_Market_Rental_Snapshot.png) | **Rental Snapshot** |
+| ![Sales Snapshot](screenshot/NSW_Property_Market_Sales_Snapshot.png) | **Sales Snapshot** |
+| ![Affordability Analysis](screenshot/NSW_Property_Market_Affordability_Analysis.png) | **Affordability Analysis** |
+ 
+---
 ## 🔧 Technical Overview
 
 ### Data Sources
@@ -90,15 +100,6 @@ Combines rental and sales data to support rent-vs-buy decision making.
 - Standardised data types and column formats across rental and sales datasets
 - Merged a **Postcode-to-LGA lookup table** to enable LGA-level filtering and aggregation
 - Applied data cleansing: null handling, type enforcement, consistent category naming
-
-### Semantic Model — Power BI
-- Star schema with fact tables for Rentals and Sales, dimension tables for Geography (Postcode/LGA), Time, and Dwelling Type
-- Key calculated measures (DAX):
-  - `Median Weekly Rent`, `Median Sale Price`
-  - `YoY Change %` and `QoQ Change %` (time-intelligence)
-  - `Gross Rental Yield = Median Annual Rent / Median Sale Price`
-  - `Price-to-Rent Ratio = Median Sale Price / Median Annual Rent`
-  - `IQR1` and `IQR3` using `PERCENTILEINC`
 
 ---
 
