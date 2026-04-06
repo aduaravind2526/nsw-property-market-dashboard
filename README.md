@@ -115,7 +115,7 @@ Built by **Aditya Aravind** — Data Reporting Analyst | Business & IT Student (
 
 Connecting data, finance, and storytelling to build actionable insights.
 
-🔗 [LinkedIn](www.linkedin.com/in/aditya-aravind-432156176) | 📧 Reach out via LinkedIn
+🔗 [LinkedIn](https://www.linkedin.com/in/aditya-aravind-432156176/) | 📧 Reach out via LinkedIn
 
 ---
 
