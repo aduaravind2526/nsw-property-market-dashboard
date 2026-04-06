@@ -101,6 +101,10 @@ Combines rental and sales data to support rent-vs-buy decision making.
 - Merged a **Postcode-to-LGA lookup table** to enable LGA-level filtering and aggregation
 - Applied data cleansing: null handling, type enforcement, consistent category naming
 
+### Tools
+- PowerBI
+- PowerQuery
+- Excel
 ---
 
 ## 🚀 Upcoming Features
