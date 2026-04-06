@@ -2,7 +2,7 @@
 
 A Power BI dashboard analysing the New South Wales residential property market across rental and sales sectors, sourced from the NSW Department of Communities and Justice (DCJ).
 
-Built as a portfolio project to demonstrate end-to-end data analytics skills — from raw government data through ETL, semantic modelling, and interactive visualisation.
+Built as a portfolio project to demonstrate end-to-end data analytics skills — from raw government data through ETL, and interactive visualisation.
 
 ---
 
