@@ -5,7 +5,18 @@ A Power BI dashboard analysing the New South Wales residential property market a
 Built as a portfolio project to demonstrate end-to-end data analytics skills — from raw government data through ETL, and interactive visualisation.
 
 ---
+## 👥 User Perspectives
 
+### 🏠 Renters
+- Assess median rental prices and YoY changes across LGAs/postcodes  
+- Use IQR distribution to evaluate whether a listing is below, at, or above market rates  
+- Estimate rental affordability and anticipate future cost trends  
+
+### 💰 Buyers / Investors
+- Analyse median property prices and historical growth trends  
+- Use rental data to benchmark expected rental income  
+- Identify investment opportunities using **Gross Rental Yield** and **Price-to-Rent Ratio**  
+- Compare locations to determine whether buying or renting is more financially viable  
 ## 📊 Dashboard Pages
 
 ### 1. NSW Rental Property Snapshot
